@@ -130,6 +130,7 @@ ________________________
 As mentioned above, this is an 80% solution. I have presented this product to our firm at a firm meeting and the hope is that the paralegals and administrators will begin using it now.
 
 Here’s what is left to do:
+
 	-Automatic OCR’ing of pdfs.
  
 	-Handling of certain edge cases (e.g., all claims allowed).
