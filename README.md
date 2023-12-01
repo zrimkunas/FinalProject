@@ -9,13 +9,13 @@ NoticeReporter.exe is a computer program that processes an office action from th
 First things first, here are links to my deliverables:
 * Pitch Deck: https://github.com/zrimkunas/FinalProject/blob/main/Pitch%20Deck.pptx
 * User Testing Feedback:
-* Solution Documentation (see below)
 * Final Technical Solution (Microsoft Windows): https://github.com/zrimkunas/FinalProject/blob/main/NoticeReporter.exe
+* Source Code: 
 * Test Data (Office Actions): https://github.com/zrimkunas/FinalProject/tree/main/OfficeActions
 * Partner Letter: https://github.com/zrimkunas/FinalProject/blob/main/Partner%20Letter.pdf
+* Solution Documentation (see below)
 * Project Biography (see below)
 
- 
 ________________________
 How to Use the Software
 ________________________
