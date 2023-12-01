@@ -100,6 +100,10 @@ A paralegal and an administrator from my firm volunteered to test this software 
 Their feedback indicated that…..
 ***********
 
+If you want to test the software, download the executable and the test data:
+* Final Technical Solution (Microsoft Windows): https://github.com/zrimkunas/FinalProject/blob/main/NoticeReporter.exe
+* Test Data (Office Actions): https://github.com/zrimkunas/FinalProject/tree/main/OfficeActions
+  
 ________________________
 Refinement
 ________________________
