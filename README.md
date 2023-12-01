@@ -7,7 +7,7 @@ ________________________
 NoticeReporter.exe is a computer program that processes an office action from the United States Patent and Trademark Office using ChatGPT to generate a notice reporting letter for the office action. 
 
 First things first, here are links to my deliverables:
-* Pitch Deck: 
+* Pitch Deck: https://github.com/zrimkunas/FinalProject/blob/main/Pitch%20Deck.pptx
 
  
 ________________________
