@@ -30,7 +30,7 @@ To execute the software:
 
 3)    Wait until the notice reporting text appears.
  
- 
+
 An attorney should always verify the notice reporting text before it is sent to the client.
 
 ________________________
@@ -69,8 +69,7 @@ This software uses ChatGPT to parse a USPTO office action to generate a notice r
  
 The answers to those questions are then used to construct the text of the notice reporting letter. 
 
-___________________________________________________________ 
-
+____________________________________________________________
 Limitations of Current Implementation
 ____________________________________________________________
  
