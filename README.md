@@ -11,7 +11,6 @@ First things first, here are links to my deliverables:
 * User Testing Feedback:
 * Solution Documentation (see below)
 * Final Technical Solution (Microsoft Windows): https://github.com/zrimkunas/FinalProject/blob/main/NoticeReporter.exe
-* Final Technical Solution (MacOS): https://github.com/zrimkunas/FinalProject/blob/main/NoticeReporter
 * Test Data (Office Actions): https://github.com/zrimkunas/FinalProject/tree/main/OfficeActions
 * Partner Letter: https://github.com/zrimkunas/FinalProject/blob/main/Partner%20Letter.pdf
 * Project Biography (see below)
