@@ -9,7 +9,7 @@ from tkinter import filedialog
 import datefinder
 from dateutil.relativedelta import relativedelta
 
-client = OpenAI(api_key='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')
+client = OpenAI(api_key='REDACTED')
 
 #############################################################################################
 # Function for using LLM to parse an excerpt of the OA using a question
