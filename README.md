@@ -95,10 +95,14 @@ ________________________
 User  Testing
 ________________________
 
-A paralegal and an administrator from my firm volunteered to test this software for me. I provided them with the executable and a set of OCR’d office actions that we had previously received from the USPTO. I also provided them with a feedback form.
+As a first testing step, I volunteered to show a working prototype of the software to the firm at our firm meeting. Thankfully, the prototype worked and the firm was able to see an example of an automatically generated notice reporting letter. The attorneys and paralegals in the meeting noted certain features (e.g., identification of the type of office action--non-final or final) that would be desirable in a final prodcut. After that meeting, I augmented the software based on the feedback I received. Among other features, the updated version of the software was able to determine and indicate office action type in the notice reporting letter. 
 
-Their feedback indicated that…..
-***********
+For a second testing step, a paralegal and an administrator from my firm volunteered to test this software for me. The paralegal is our lead paralegal, an experienced professional with over 15 years of experience as a patent parealegal/secretary. She is an expert. Our administrator is a smart entry level employee who is learning the ropes of the patent business. 
+
+I provided them with the executable and a set of OCR’d office actions that we had previously received from the USPTO. I also provided them with a feedback form. Their completed feedback forms. I have sent the completed feedback froms to Professor Colarusso. 
+
+Their feedback indicated that the software provided almost entirely correct information (with a few exceptions), but that they would be more likely to use the software if it had certain additional features that are beyond the scope of this product. I am optimistic that I will have support from our staff to continue development of this software to make a product that our team is willing to use.
+
 
 If you want to test the software, download the executable and the test data:
 * Final Technical Solution (Microsoft Windows): https://github.com/zrimkunas/FinalProject/blob/main/NoticeReporter.exe
@@ -107,7 +111,9 @@ If you want to test the software, download the executable and the test data:
 ________________________
 Refinement
 ________________________
-*****************
+As is noted above, the software was refined based on feedback received in a firm-wide show-and-tell. In general, the feedback I continue to receive is that people want the software to be more full-featured. All the refinements I've done so far have been to increase the features of the software and the feedback I still need to address is more of the same. 
+
+Surprisingly, the paralegals and administrators in my firm seem to like the functionality of the software and support further refinement and implementation in their workflows. 
 
 ________________________
 Impact & Efficiencies
